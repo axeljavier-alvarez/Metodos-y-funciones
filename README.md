@@ -1,4 +1,4 @@
-# Features
+## Features
 - Uso de metodos y funciones para realizar diferentes programas
 - Uso de Struct y matrices definidas
 - Uso de punteros
